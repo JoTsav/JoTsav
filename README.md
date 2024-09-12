@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I’m Joseph</h1>
-👀 I have a wide range of interests, including but not limited to Machine Learning, Software Engineering, Data Science and Signal Processing.
+<h1 align="center">👋 Hi, I’m Joseph!</h1>
+I have a wide range of interests, including but not limited to Machine Learning, Software Engineering, Data Science and Signal Processing.
 
-⚡ Fun fact: Constantly expanding my toolkit. 😄
+⚡Constantly expanding my toolkit. 😄
 
 <h3 align="left">Languages and Tools</h3>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
