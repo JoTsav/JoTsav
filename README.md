@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Joseph!</h1>
+Hey, I'm Joseph <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 I have a wide range of interests, including but not limited to Machine Learning, Software Engineering, Data Science and Signal Processing.
 
 ⚡Constantly expanding my toolkit. 😄
